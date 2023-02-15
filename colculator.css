@@ -1,0 +1,60 @@
+.f {
+    background-color: #f3f3f3;
+    display: flex;
+    justify-content: space-around; 
+    width :1350px;
+    height :1000px; 
+    font-weight :bold ;
+} 
+.f1{position:absolute ;
+    top:200px ;
+    width :400px;
+  
+   
+
+}
+input.z1 {
+    width: 98%;
+    height: 70px;
+    text-align :right ; 
+    font-size:30px;
+}
+button.z2 {
+    width: 93px;
+    height: 65px;
+    font-size: 40px;
+    color: white;
+    background-color: black;
+    margin: 2px; 
+  
+}
+    button.z2:hover, button.z3:hover, button.z4:hover, button.z5:hover, .f1 {
+        background-color: #00ffff;
+        padding: 8px;
+        box-shadow: 3px 3px 6px 4px #ff6a00;
+        transition: all 1s;
+    }
+    button.z3 {
+        width: 93px;
+        height: 65px;
+        font-size: 40px;
+        color: white;
+        background-color: #ffd800;
+        margin: 2px;
+    }
+button.z4 {
+    width: 93px;
+    height: 65px;
+    font-size: 40px;
+    color: white;
+    background-color:#0094ff;
+    margin: 2px;
+}
+button.z5 {
+    width: 93px;
+    height: 65px;
+    font-size: 40px;
+    color: white;
+    background-color: tomato ;
+    margin: 2px;
+}
